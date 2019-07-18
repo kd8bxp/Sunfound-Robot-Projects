@@ -6,7 +6,7 @@
 //--           Juan Gonzalez (obijuan): juan.gonzalez@bq.com
 //-----------------------------------------------------------------
 #include <Servo.h>
-#include <Oscillator.h>
+#include "Oscillator.h"
 #include <EEPROM.h>
 
 #define N_SERVOS 4
